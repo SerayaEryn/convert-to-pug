@@ -18,6 +18,10 @@
     "jade",
     "convert"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerayaEryn/convert-to-pug.git"
+  },
   "author": "Denis Fäcke",
   "license": "MIT",
   "devDependencies": {
